@@ -3,9 +3,9 @@
 For accessing my program, make sure the files provided in the email are 
 together in one folder (let's call it "Wayfair_Program"). Make sure you have 
 Microsoft Visual Studio installed with built-in Visual C++ environment set up.
-Open the "Wayfair_Program" folder in Microsoft Visual Studio, open "wayfair_program.ccp", 
-and run "hello-world.vcxproj" as the Startup Item.  Make sure that it is running the 
-"wayfair_program.ccp" script.
+Open the "Wayfair_Program" folder in Microsoft Visual Studio, open the solution 
+"wayfair_program.sln", and run the solution on a Local Windows Debugger.  
+Make sure that it is running the "wayfair_program.ccp" script.
 
 When running my program, a terminal window would pop up on your screen. 
 It will prompt you with a message, and you can press any key to continue. 
